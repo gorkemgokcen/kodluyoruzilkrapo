@@ -1,0 +1,40 @@
+.box{
+    margin-top: 150px;
+}
+
+
+.bg-green{
+    background-color: rgb(2, 204, 137);
+}
+.bg-green2{
+    background-color:rgb(4, 187, 126) ;
+}
+.box1{
+    height: 120px;
+    width: 320px;
+    float: left;
+    padding-top: 30px;
+    padding-left: 100px;
+    margin: auto;
+   
+}
+.box3{
+    height: 150px;
+    width: 350px;
+    float: left;
+}
+.background{
+    background-color: rgb(231, 229, 229);
+}
+.box4{
+    background-color: rgb(3, 148, 100);
+   float: left;
+   height: 150px;
+   width: 310px;
+   padding-left: 100px;
+}
+.box2{
+    width: 400px;
+    height: 20px;
+}
+    
